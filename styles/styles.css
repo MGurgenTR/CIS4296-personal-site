@@ -51,6 +51,12 @@ body {
     color: white;
 }
 
+.carousel-inner img{
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+}
+
 #aboutMeDescription.text-justify {
     font-family: 'Eras ITC';
     font-size: large;
