@@ -50,3 +50,9 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
+
+#aboutMeDescription.text-justify {
+    font-family: 'Eras ITC';
+    font-size: large;
+    font-weight: 400;
+}
