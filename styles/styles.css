@@ -51,9 +51,9 @@ body {
     color: white;
 }
 
-.carousel-inner img{
-    max-height: 300px;
-    width: auto;
+.carousel-inner img {
+    max-height: 235px;
+    max-width: 235px;
     margin: auto;
 }
 
